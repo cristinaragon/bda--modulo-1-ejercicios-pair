@@ -1,3 +1,1 @@
-hola
-cambios en el readme compañera
-# cambios en ejercicios_diccionarios
+Quien sea la dueña de este repositorio, favor cambiar nombre para identificarlo más fácil
